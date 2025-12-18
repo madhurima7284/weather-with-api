@@ -25,4 +25,31 @@ This project demonstrates API integration, HTTP requests, JSON parsing, and basi
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Install Python
+Download and install Python from  
+https://www.python.org/downloads/
+
+⚠️ Make sure to check **“Add Python to PATH”** during installation.
+
+---
+
+### 2️⃣ Clone the Repository
+```bash
+git clone <your-repository-url>
+cd weather-
+
+
+
+🧪 Sample Output
+Enter city name: Hyderabad
+
+🌤 Weather Report
+City: Hyderabad
+Temperature: 29 °C
+Feels Like: 31 °C
+Humidity: 65%
+Condition: Clear Sky
